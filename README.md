@@ -106,4 +106,4 @@ pip install -e ".[dev]" && pytest
 
 ---
 
-Built by [Siba Labs](https://www.upwork.com/). All example data is invented. MIT licensed.
+Built by [Siba Labs](https://www.upwork.com/). MIT licensed.
